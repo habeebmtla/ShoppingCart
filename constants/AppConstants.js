@@ -1,0 +1,12 @@
+const ActionTypes = {
+  SET_INPUTS: 'SET_INPUTS',
+  GET_API: 'GET_API',
+  ADD_CART: 'ADD_CART',
+  REMOVE_CART: 'REMOVE_CART',
+  DELETE_ITEM: 'DELETE_ITEM',
+  FAVORITE_ADD: 'FAVORITE_ADD',
+  FAVORITE_REMOVE: 'FAVORITE_REMOVE',
+
+}
+
+export default ActionTypes;
